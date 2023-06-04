@@ -1,0 +1,2 @@
+# wordpresss
+site wordpress static
